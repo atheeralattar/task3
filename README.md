@@ -1,11 +1,9 @@
 # task3
 
-using System;
-
-/*
   
  Atheer
- * 1. Write a program in C to create and display a doubly linked list.
+
+* 1. Write a program in C to create and display a doubly linked list.
 Test Data :
 Input the number of nodes : 3
 Input data for node 1 : 2
@@ -18,6 +16,7 @@ Data entered on the list are :
  node 3 : 8 
 
  Atheer
+
 2. Write a program in C to create a doubly linked list and display it in reverse order.
 Test Data :
 Input the number of nodes : 3
@@ -203,6 +202,7 @@ Data entered in the list are :
 
 
 Islam 
+
 12. Write a C program to convert a Doubly Linked list into a string.
 Test Data and Expected Output :
 Input the number of nodes: 4
@@ -212,19 +212,3 @@ Input the number of nodes: 4
  Input data for node 4 : 13
 
 The doubly linked list in string format: 10 11 12 13
-
-
- */
-
-
-namespace task3_solution
-
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
