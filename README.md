@@ -3,7 +3,7 @@
   
  Atheer
 
-* 1. Write a program in C to create and display a doubly linked list.
+1. Write a program in C to create and display a doubly linked list.
 Test Data :
 Input the number of nodes : 3
 Input data for node 1 : 2
@@ -28,7 +28,7 @@ Data in reverse order are :
  Data in node 1 : 8                                                                                           
  Data in node 2 : 5                                                                                           
  Data in node 3 : 2 
-
+---
  Tony
 3. Write a program in C to insert a node at the beginning of a doubly linked list.
 Test Data and Expected Output :
@@ -48,7 +48,7 @@ Input the number of nodes : 3
  node 2 : 2                                                                                                   
  node 3 : 5                                                                                                   
  node 4 : 8  
-
+---
  Fatima
 4. Write a program in C to insert a new node at the end of a doubly linked list.
 Test Data and Expected Output :
@@ -68,8 +68,8 @@ Input the number of nodes : 3
  node 2 : 5                                                                                                   
  node 3 : 8                                                                                                   
  node 4 : 9 
-
- Maytham
+---
+Maytham
 5. Write a program in C to insert a new node at any position in a doubly linked list.
 Test Data and Expected Output :
 Input the number of nodes (3 or more ): 3                                                                    
@@ -90,11 +90,10 @@ Input the number of nodes (3 or more ): 3
  node 3 : 4                                                                                                   
  node 4 : 5 
 
- Maytham
+Maytham
 6. Write a program in C to insert a new node in the middle of a doubly linked list.
 Test Data and Expected Output :
  Doubly Linked List : Insert new node at the middle in a doubly linked list :                                 
-----------------------------------------------------------------------------------                            
  Input the number of nodes (3 or more ): 3                                                                    
  Input data for node 1 : 2                                                                                    
  Input data for node 2 : 4                                                                                    
@@ -112,7 +111,7 @@ Test Data and Expected Output :
  node 2 : 3                                                                                                   
  node 3 : 4                                                                                                   
  node 4 : 5
-
+---
 Hadi 
 7. Write a program in C to delete a node from the beginning of a doubly linked list.
 Test Data and Expected Output :
@@ -146,7 +145,7 @@ Input the number of nodes (3 or more ): 3
  After deletion the new list are :                                                                            
  node 1 : 1                                                                                                   
  node 2 : 2    
-
+---
  Jafar
 9. Write a program in C to delete a node from any position in a doubly linked list.
 Test Data and Expected Output :
@@ -184,7 +183,7 @@ Input the number of nodes (3 or more ): 3
  After deletion the new list are :                                                                            
  node 1 : 1                                                                                                   
  node 2 : 3   
-
+---
  Islam
 11. Write a program in C to find the maximum value in a doubly linked list.
 Test Data :
