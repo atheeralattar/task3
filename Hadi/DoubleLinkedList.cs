@@ -79,6 +79,24 @@ namespace DoubleLinked_List
             }
         }
 
+        public bool Contains(T item)
+        {
+            var node = Head;
+            while (node != null)
+            {
+                if (node.Data.Equals(item))
+                {
+                    return true;
+                }
+                node = node.Next;
+            }
+            return false;
+        }
+        private void Clear()
+        {
+            Head = Tail = null;
+            Count = 0;
+        }
 
     }
 }
